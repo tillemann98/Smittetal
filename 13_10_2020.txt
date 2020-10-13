@@ -1,0 +1,6 @@
+Total Antal prøver: 4.423.310
+Førstegangs testede personer siden i går: 9.871
+Smittede siden i går: 290
+Total Smittede: 33.101
+Overstået infektion: 27.225
+Smittede på nuværende tidspunkt i Danmark: 5876
